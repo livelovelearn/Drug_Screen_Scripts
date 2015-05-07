@@ -1,1 +1,1 @@
-# codes for analyzing Drug Screen experiments
+ Codes for analyzing 384-w high-throughput drug screen data and mining hits.
