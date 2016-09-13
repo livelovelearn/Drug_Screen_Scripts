@@ -2,7 +2,7 @@
 ## Header 2
 ### Header 3
 
-** Bold this text **
+**Bold this text**
 
 *italic this text*
 
