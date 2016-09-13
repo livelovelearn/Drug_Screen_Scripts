@@ -35,9 +35,9 @@ This is a table:
 | This     |        This |     This     |
 | column     |      column |    column    |
 | will       |        will |     will     |
- | be         |          be |      be      |
-| left       |       right |    center    |
- | aligned    |     aligned |   aligned    |
+| be         |          be |      be      |
+| left        |       right |    center    |
+| aligned    |     aligned |   aligned    |
 
 
 
