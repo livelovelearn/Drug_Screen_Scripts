@@ -37,14 +37,8 @@ This is a table:
 | will       |        will |     will     |
  | be         |          be |      be      |
 | left       |       right |    center    |
-  | aligned    |     aligned |   aligned    |
+ | aligned    |     aligned |   aligned    |
 
-
-This is a table only works for github:
- Left align | Right align | Center align |
------------|------------|------------|
-| This     |        This |     This     |
-| column     |      column |    column    |
 
 
 Embedding an image like this:
