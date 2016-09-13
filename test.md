@@ -8,6 +8,7 @@
 
 This is [link to Google](https://google.com).
 
+This is an ordered list:
 1. Item 1
 2. Item 2
 
